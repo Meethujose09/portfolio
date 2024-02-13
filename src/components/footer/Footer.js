@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <div>  <footer>
     <a href="#" className="footer__logo">
-      iNext
+      Meethu
     </a>
     <ul className="permalinks">
       <li>
@@ -50,7 +50,7 @@ export default function Footer() {
       </a>
     </div>
     <div className="footer__copyright">
-      <small>&copy; iNext Dev Company. All rights reserved</small>
+      <small>&copy; All rights reserved</small>
     </div>
   </footer></div>
   )

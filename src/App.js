@@ -22,7 +22,7 @@ export default function App() {
 
 
       <Experience />
-      <Services />
+      {/* <Services /> */}
 
 
       <Contact />

@@ -41,7 +41,7 @@ const sendEmail =(e)=>{
         <div className="contact__option">
           <RiMessengerLine className="contact__option-icon" />
           <h4>Messenger</h4>
-          <h5>Dummy Hungry</h5>
+          <h5>Meethu Jose</h5>
           <a href="https://m.me">Send a message</a>
         </div>
         <div className="contact__option">
