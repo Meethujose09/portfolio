@@ -10,20 +10,20 @@
   text-decoration: none;
 }
 .about_div{
-  /* background-color: #EAE4FE; */
-  background: hsla(263, 42%, 65%, 1);
+   background-color: #0000; 
+  /* background: hsla(263, 42%, 65%, 1); */
 
-  background: linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+  /* background: linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%); */
   
-  background: -moz-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+  /* background: -moz-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%); */
   
-  background: -webkit-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%);
+  /* background: -webkit-linear-gradient(90deg, hsla(263, 42%, 65%, 1) 0%, hsla(319, 77%, 86%, 1) 100%); */
   
-  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#9D80CB", endColorstr="#F7C2E6", GradientType=1 );
+  /* filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#9D80CB", endColorstr="#F7C2E6", GradientType=1 ); */
 }
 :root {
   --color-bg: #1f1f38;
-  --color-bg-variant:#aa00ff ;
+  --color-bg-variant:#0000  ;
   --color-primary: #F45BF4;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-white: #ffff;
@@ -44,7 +44,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background: var(--color-bg);
-  color: #37474f;
+  color: #ffff;
   line-height: 1.7;
   /* background-image: url("../assets/bg-texture.png"); */
   background-image: url("../src/assets/wallpaper.png");

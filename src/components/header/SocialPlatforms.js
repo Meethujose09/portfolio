@@ -6,14 +6,12 @@ export default function SocialPlatforms() {
   return (
     <div className="header__socials">
     <a href="https://www.linkedin.com/in/meethu-jose" target="_blank">
-      <BsLinkedin />
+      <BsLinkedin style={{height:'20px',width:'20px'}}/>
     </a>
-    <a href="https://github.com/meethujose" target="_blank">
-      <FaGithub />
+    <a href="https://github.com/meethujose" target="_blank" >
+      <FaGithub style={{height:'20px',width:'20px'}}/>
     </a>
-    <a href="https://dribbble.com" target="_blank">
-      <FiDribbble />
-    </a>
+    
   </div>
   )
 }

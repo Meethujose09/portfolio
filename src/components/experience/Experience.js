@@ -28,14 +28,14 @@ export default function Experience() {
             <BsPatchCheckFill className="experience__details-icon" />
             <div>
               <h4>Javascript</h4>
-              <small className="text-light">LoveIt</small>
+              <small className="text-light">Experienced</small>
             </div>
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon" />
             <div>
               <h4>ReactJS</h4>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Experienced</small>
             </div>
           </article>
           <article className="experience__details">
@@ -68,14 +68,14 @@ export default function Experience() {
             <BsPatchCheckFill className="experience__details-icon" />
             <div>
               <h4>Express</h4>
-              <small className="text-light">Advandced</small>
+              <small className="text-light">Experienced</small>
             </div>
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon" />
             <div>
-              <h4>Mongo</h4>
-              <small className="text-light">LoveIt</small>
+              <h4>MongoDB</h4>
+              <small className="text-light">Intermediate</small>
             </div>
           </article>
           <article className="experience__details">
@@ -88,7 +88,7 @@ export default function Experience() {
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon" />
             <div>
-              <h4>MySql</h4>
+              <h4>Angular</h4>
               <small className="text-light">Begginer</small>
             </div>
           </article>

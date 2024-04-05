@@ -30,15 +30,9 @@ const [button, setButton] = useState();
     >
       <BiBook />
     </a>
+  
     <a
-      onClick={() => this.setState({ active: "#services" })}
-      className={button === "#services" ? "active" : ""}
-      href="#services"
-    >
-      <RiServiceLine />
-    </a>
-    <a
-      onClick={() => this.setState({ active: "#contact" })}
+      onClick={() => setButton({ active: "#contact" })}
       className={button === "#contact" ? "active" : ""}
       href="#contact"
     >

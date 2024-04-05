@@ -22,24 +22,16 @@ export default function Footer() {
       <li>
         <a href="#experience">Experience</a>
       </li>
-      <li>
-        <a href="#services">Services</a>
-      </li>
-      <li>
-        <a href="#portfolio">Portfolio</a>
-      </li>
-      <li>
-        <a href="#testimonials">Testimonials</a>
-      </li>
+     
       <li>
         <a href="#contact">Contact</a>
       </li>
     </ul>
     <div className="footer__social">
-      <a href="https://www.facebook.com/inext.deve/" target="_blank">
+      <a href="https://www.facebook.com/meethujose/" target="_blank">
         <IoLogoFacebook />
       </a>
-      <a href="https://instagram.com/inext.dev" target="_blank">
+      <a href="https://www.instagram.com/_meethu_jose" target="_blank">
         <IoLogoInstagram />
       </a>
       <a href="https://twitter.com" target="_blank">
